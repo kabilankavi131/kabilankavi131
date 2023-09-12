@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Learning to be a Fullstack dev with AI collaboration <br>🔭 I'm currently working on my skills <br>⚡ To live reality don't expect anything from anyone <br>📊 Studying B.Tech on Artificial Intelligence and Data Science<br>💻 Working with some mini projects<br>
+🧑‍💻 Learning to be a Fullstack dev with AI collaboration <br>🔭 I'm currently working on my skills <br>⚡ To live reality don't expect anything from anyone <br>📊 Pursuing B.Tech in Artificial Intelligence and Data Science<br>💻 Working with some mini projects<br>
 
 
 ## 🌐 Socials:
